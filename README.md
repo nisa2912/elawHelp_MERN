@@ -5,4 +5,4 @@ A platform for small businesses to look for lawyers on different issues. A team 
 
 //Progress-
 
-Backend created for lawyers profile (With REST API's ).
+Backend created for lawyers profile (With REST API's ). Used Postman to test the API's and it returns 200(success).
